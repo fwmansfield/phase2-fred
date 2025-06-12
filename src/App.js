@@ -66,7 +66,7 @@ export function App(params) {
   return (
     <div>
       <div className="boxed">
-        <h4>Bestest Customer List</h4>
+        <h4>Customer List</h4>
         <table id="customer-list">
           <thead>
             <tr>
