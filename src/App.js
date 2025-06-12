@@ -70,7 +70,7 @@ export function App(params) {
         <table id="customer-list">
           <thead>
             <tr>
-              <th>Name</th>
+              <th>Names</th>
               <th>Email</th>
               <th>Password</th>
             </tr>
